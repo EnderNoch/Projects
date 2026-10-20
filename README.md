@@ -18,7 +18,7 @@ related projects; each project lives in its own repository with its own instruct
 | Project | What it does |
 | --- | --- |
 | **[Steam Windows on Mac](https://github.com/EnderNoch/Steam-Windows-on-Mac)** | Steam for Windows on an Apple silicon Mac, for free: Sikarugir wrapper setup, script and icon |
-| **[Spotlight at Cursor](https://github.com/EnderNoch/spotlight-at-cursor)** | The built-in macOS Spotlight opens at the mouse cursor instead of its remembered spot, with no background process |
+| **[Spotlight at Cursor](https://github.com/EnderNoch/spotlight-at-cursor)** | The built-in macOS Spotlight opens at the mouse cursor instead of its remembered spot, with no background process. **Does not work on macOS 27 Golden Gate** — macOS 26 only |
 | **[rickthatrolls](https://github.com/EnderNoch/rickthatrolls)** | A web page that plays a video on a loop with nothing on the page to stop it. [Open it](https://endernoch.github.io/rickthatrolls/) |
 | **[fiszki-z-pliku](https://github.com/EnderNoch/fiszki-z-pliku)** | Turns flashcards from a file into an HTML page (the web predecessor of Flashcards from File). [Open it](https://endernoch.github.io/fiszki-z-pliku/) |
 | **[endernoch.github.io](https://github.com/EnderNoch/endernoch.github.io)** | The site at [endernoch.github.io](https://endernoch.github.io/) |
@@ -52,7 +52,8 @@ a każdy projekt ma własne repozytorium z własną instrukcją.
 - **[Steam Windows on Mac](https://github.com/EnderNoch/Steam-Windows-on-Mac)** — Steam w wersji
   na Windowsa na Macu z procesorem Apple, za darmo: konfiguracja Sikarugir, skrypt i ikona
 - **[Spotlight pod kursorem](https://github.com/EnderNoch/spotlight-at-cursor)** — wbudowany
-  Spotlight otwiera się tam, gdzie stoi kursor, bez procesu w tle
+  Spotlight otwiera się tam, gdzie stoi kursor, bez procesu w tle. **Nie działa na macOS 27
+  Golden Gate** — tylko macOS 26
 - **[rickthatrolls](https://github.com/EnderNoch/rickthatrolls)** — strona, która odtwarza film
   w pętli i nie ma niczego, czym dałoby się go zatrzymać.
   [Otwórz](https://endernoch.github.io/rickthatrolls/)
