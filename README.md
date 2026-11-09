@@ -35,33 +35,21 @@ Wszystko, co robi EnderNoch (Atypical Maker), w jednym miejscu: aplikacje na Mac
 i paczki zasobów do Minecrafta, skrypty i małe strony. Kolekcje zbierają powiązane projekty,
 a każdy projekt ma własne repozytorium z własną instrukcją.
 
-**Kolekcje**
+### Kolekcje
 
-- **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** — małe
-  aplikacje na Maca, każda robi jedną rzecz i wygląda jak część macOS 26/27:
-  [Światło ekranu](https://github.com/EnderNoch/Screen-Light),
-  [Minutnik](https://github.com/EnderNoch/Timer),
-  [Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File)
-- **[Minecraft Projects](https://github.com/EnderNoch/Minecraft-Projects)** — mody i paczki
-  zasobów do Minecraft Java Edition 26.3:
-  [Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar),
-  [Monocraft Font](https://github.com/EnderNoch/Monocraft-Font),
-  [Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation)
+| Kolekcja | Co w niej jest |
+| --- | --- |
+| **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** | Małe aplikacje na Maca, każda robi jedną rzecz i wygląda jak część macOS 26/27: [Światło ekranu](https://github.com/EnderNoch/Screen-Light), [Minutnik](https://github.com/EnderNoch/Timer), [Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File) |
+| **[Minecraft Projects](https://github.com/EnderNoch/Minecraft-Projects)** | Mody i paczki zasobów do Minecraft Java Edition 26.3: [Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar), [Monocraft Font](https://github.com/EnderNoch/Monocraft-Font), [Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation) |
 
-**Inne projekty**
+### Inne projekty
 
-- **[Steam Windows on Mac](https://github.com/EnderNoch/Steam-Windows-on-Mac)** — Steam w wersji
-  na Windowsa na Macu z procesorem Apple, za darmo: konfiguracja Sikarugir, skrypt i ikona
-- **[Spotlight pod kursorem](https://github.com/EnderNoch/spotlight-at-cursor)** — wbudowany
-  Spotlight otwiera się tam, gdzie stoi kursor, bez procesu w tle. **Nie działa na macOS 27
-  Golden Gate** — tylko macOS 26
-- **[rickthatrolls](https://github.com/EnderNoch/rickthatrolls)** — strona, która odtwarza film
-  w pętli i nie ma niczego, czym dałoby się go zatrzymać.
-  [Otwórz](https://endernoch.github.io/rickthatrolls/)
-- **[fiszki-z-pliku](https://github.com/EnderNoch/fiszki-z-pliku)** — zamienia fiszki z pliku na
-  stronę HTML (internetowy poprzednik Fiszek z pliku).
-  [Otwórz](https://endernoch.github.io/fiszki-z-pliku/)
-- **[endernoch.github.io](https://github.com/EnderNoch/endernoch.github.io)** — strona
-  [endernoch.github.io](https://endernoch.github.io/)
+| Projekt | Co robi |
+| --- | --- |
+| **[Steam Windows on Mac](https://github.com/EnderNoch/Steam-Windows-on-Mac)** | Steam w wersji na Windowsa na Macu z procesorem Apple, za darmo: konfiguracja Sikarugir, skrypt i ikona |
+| **[Spotlight pod kursorem](https://github.com/EnderNoch/spotlight-at-cursor)** | Wbudowany Spotlight otwiera się tam, gdzie stoi kursor, bez procesu w tle. **Nie działa na macOS 27 Golden Gate** — tylko macOS 26 |
+| **[rickthatrolls](https://github.com/EnderNoch/rickthatrolls)** | Strona, która odtwarza film w pętli i nie ma niczego, czym dałoby się go zatrzymać. [Otwórz](https://endernoch.github.io/rickthatrolls/) |
+| **[fiszki-z-pliku](https://github.com/EnderNoch/fiszki-z-pliku)** | Zamienia fiszki z pliku na stronę HTML (internetowy poprzednik Fiszek z pliku). [Otwórz](https://endernoch.github.io/fiszki-z-pliku/) |
+| **[endernoch.github.io](https://github.com/EnderNoch/endernoch.github.io)** | Strona [endernoch.github.io](https://endernoch.github.io/) |
 
 Licencja: każdy projekt ma własną, opisaną w jego repozytorium.
