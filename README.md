@@ -10,7 +10,7 @@ related projects; each project lives in its own repository with its own instruct
 
 | Collection | What's in it |
 | --- | --- |
-| **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** | Small Mac apps that each do one thing and look like part of macOS 26/27: [Screen Light](https://github.com/EnderNoch/Screen-Light), [Timer](https://github.com/EnderNoch/Timer), [Flashcards from File](https://github.com/EnderNoch/Flashcards-from-File) |
+| **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** | Small Mac apps that each do one thing and look like part of macOS 26/27: [Screen Light](https://github.com/EnderNoch/Screen-Light), [Timer](https://github.com/EnderNoch/Timer), [Flashcards from File](https://github.com/EnderNoch/Flashcards-from-File), [Lid Sound](https://github.com/EnderNoch/Lid-Sound) |
 | **[Minecraft Projects](https://github.com/EnderNoch/Minecraft-Projects)** | Minecraft mods and resource packs for Java Edition 26.3: [Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar), [Monocraft Font](https://github.com/EnderNoch/Monocraft-Font), [Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation) |
 
 ## Other projects
@@ -39,7 +39,7 @@ a każdy projekt ma własne repozytorium z własną instrukcją.
 
 | Kolekcja | Co w niej jest |
 | --- | --- |
-| **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** | Małe aplikacje na Maca, każda robi jedną rzecz i wygląda jak część macOS 26/27: [Światło ekranu](https://github.com/EnderNoch/Screen-Light), [Minutnik](https://github.com/EnderNoch/Timer), [Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File) |
+| **[Atypical Maker Mac Apps](https://github.com/EnderNoch/Atypical-Maker-Mac-Apps)** | Małe aplikacje na Maca, każda robi jedną rzecz i wygląda jak część macOS 26/27: [Światło ekranu](https://github.com/EnderNoch/Screen-Light), [Minutnik](https://github.com/EnderNoch/Timer), [Fiszki z pliku](https://github.com/EnderNoch/Flashcards-from-File), [Dźwięk klapy](https://github.com/EnderNoch/Lid-Sound) |
 | **[Minecraft Projects](https://github.com/EnderNoch/Minecraft-Projects)** | Mody i paczki zasobów do Minecraft Java Edition 26.3: [Centered Loading Bar](https://github.com/EnderNoch/Centered-Loading-Bar), [Monocraft Font](https://github.com/EnderNoch/Monocraft-Font), [Bedrock Breaking Animation](https://github.com/EnderNoch/Bedrock-Breaking-Animation) |
 
 ### Inne projekty
